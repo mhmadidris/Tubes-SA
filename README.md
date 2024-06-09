@@ -15,7 +15,6 @@ Proyek ini membandingkan dua algoritma penjadwalan pekerjaan, yaitu algoritma Gr
 
    ```bash
    git clone https://github.com/mhmadidris/tubes-strategi-algoritma.git
-   cd job-scheduling
    ```
 
 2. Instal dependensi yang diperlukan:
