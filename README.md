@@ -19,7 +19,7 @@ Proyek ini membandingkan dua algoritma penjadwalan pekerjaan, yaitu algoritma Gr
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/mhmadidris/tubes-strategi-algoritma.git
+   git clone https://github.com/mhmadidris/Tubes-SA.git
    ```
 
 2. Instal dependensi yang diperlukan:
